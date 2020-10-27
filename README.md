@@ -1,2 +1,2 @@
 # State-Machine
-Scripts for the Boss fight implemented with states machines
+Scripts for the Boss Fight implemented with states machines
